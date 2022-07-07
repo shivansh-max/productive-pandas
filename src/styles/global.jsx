@@ -2,7 +2,6 @@ import styled, { createGlobalStyle } from 'styled-components';
 import { fonts, theme } from './variables';
 
 const Global = createGlobalStyle`
-
 	* {
 		box-sizing: border-box;
 		margin: 0;
@@ -10,8 +9,10 @@ const Global = createGlobalStyle`
 	}
 
 	body {
-		background-color: ${theme.background};
+		background-color: ${({ theme }) => theme.background};
 		font-family: ${fonts.Comfortaa};
+		color: ${({ theme }) => theme.text_color};
+		height: 100vh;
 	}
 
 	#root {
@@ -31,6 +32,10 @@ const Global = createGlobalStyle`
 		text-decoration: none;
 	}
 
+	::selection {
+	color: ${({ theme }) => theme.background};
+	background: ${({theme})=> theme.accent};
+	}
 `;
 
 const Center = styled.div`

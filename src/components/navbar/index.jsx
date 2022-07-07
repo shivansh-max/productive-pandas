@@ -9,10 +9,10 @@ import {
 	HamburgerMenu,
 	LinkExtended,
 	NavLinkContainer,
-  LogoText,
-} from './Navbar.styles';
+	LogoText,
+} from './styles';
 
-import { Logo } from './../../public/Logo';
+import { Logo } from '../../public/Logo';
 
 export const Navbar = () => {
 	const [extendNavbar, setExtendNavbar] = useState(false);
@@ -20,13 +20,13 @@ export const Navbar = () => {
 	return (
 		<NavContainer extendNavbar={extendNavbar}>
 			<NavInnerContainer>
-				<LogoContainer to="/">
+				<LogoContainer to='/'>
 					<Logo />
 					<LogoText>productive pandas</LogoText>
 				</LogoContainer>
 				<NavLinkContainer>
 					<Links>
-						<Link to='/todo'>Todo</Link>
+						<Link to='/todo'>To Do</Link>
 						<Link to='/products'>Expense</Link>
 						<Link to='/contact'>Shopping</Link>
 						<Link to='/notes'>Notes</Link>
