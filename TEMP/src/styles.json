@@ -1,0 +1,236 @@
+[
+	{
+		"name": "mint vanilla",
+		"background": "#ffffff",
+		"error": "#ff3300",
+		"accent": "#00ff00",
+		"subAccent": "#80ff80",
+		"text": "#000000",
+		"subText": "#1a1a1a"
+	},
+	{
+		"name": "milkshake",
+		"background": "#ffffff",
+		"error": "#ff3300",
+		"accent": "#000000",
+		"subAccent": "#1a1a1a",
+		"text": "#000000",
+		"subText": "#1a1a1a"
+	},
+	{
+		"name": "lady liberty",
+		"background": "#ffffff",
+		"error": "#ff3300",
+		"accent": "#e45c96",
+		"subAccent": "#f5b1cc",
+		"text": "#00ac8c",
+		"subText": "#93e8d3"
+	},
+	{
+		"name": "snow white",
+		"background": "#ffffff",
+		"error": "#ffff00",
+		"accent": "#ff0000",
+		"subAccent": "#ff360d",
+		"text": "#000000",
+		"subText": "#1a1a1a"
+	},
+	{
+		"name": "mx blues",
+		"background": "#ffffff",
+		"error": "#ff3300",
+		"accent": "#0066cc",
+		"subAccent": "#66b3ff",
+		"text": "#000000",
+		"subText": "#1a1a1a"
+	},
+	{
+		"name": "llamas",
+		"background": "#9bf2ea",
+		"error": "#ff3300",
+		"accent": "#6d44a6",
+		"subAccent": "#b690fd",
+		"text": "#000000",
+		"subText": "#1a1a1a"
+	},
+	{
+		"name": " navy",
+		"background": "#132237",
+		"error": "#ff3300",
+		"accent": "#ebb723",
+		"subAccent": "#ebb723",
+		"text": "#1cbaac",
+		"subText": "#0b4c6c"
+	},
+	{
+		"name": "mint vanilla",
+		"background": "#1f1d27",
+		"error": "#ff3300",
+		"accent": "#f6c177",
+		"subAccent": "#9ccfd8",
+		"text": "#e0def4",
+		"subText": "#e0def4"
+	},
+	{
+		"name": "vscode",
+		"background": "#1b2028",
+		"error": "#ff3300",
+		"accent": "#23a9d5",
+		"subAccent": "#ffd11a",
+		"text": "#ccccb5",
+		"subText": "#ccccb5"
+	},
+	{
+		"name": "sublime text",
+		"background": "#212121",
+		"error": "#ff3300",
+		"accent": "#feff04",
+		"subAccent": "#feff04",
+		"text": "#e8e8e8",
+		"subText": "#5c4a9c"
+	},
+	{
+		"name": "sublime text",
+		"background": "#212121",
+		"error": "#ff3300",
+		"accent": "#feff04",
+		"subAccent": "#feff04",
+		"text": "#e8e8e8",
+		"subText": "#5c4a9c"
+	},
+	{
+		"name": "gateron blues",
+		"background": "#191826",
+		"error": "#be555f",
+		"accent": "#4f85e8",
+		"subAccent": "#4a6fb5",
+		"text": "#e8e8e8",
+		"subText": "#9393a7"
+	},
+	{
+		"name": "crypto",
+		"background": "#0f1f2c",
+		"error": "#56c3b7",
+		"accent": "#56c3b7",
+		"subAccent": "#e4edf1",
+		"text": "#e8e8e8",
+		"subText": "#d44729"
+	},
+	{
+		"name": "crypto",
+		"background": "#0f1f2c",
+		"error": "#56c3b7",
+		"accent": "#56c3b7",
+		"subAccent": "#e4edf1",
+		"text": "#e8e8e8",
+		"subText": "#d44729"
+	},
+	{
+		"name": "dark magician",
+		"background": "#0f1f2c",
+		"error": "#56c3b7",
+		"accent": "#56c3b7",
+		"subAccent": "#e4edf1",
+		"text": "#e8e8e8",
+		"subText": "#d44729"
+	},
+	{
+		"name": "cherry blossom",
+		"background": "#0f1f2c",
+		"error": "#56c3b7",
+		"accent": "#fd77d7",
+		"subAccent": "#dde5ed",
+		"text": "#dde5ed",
+		"subText": "#676e8a"
+	},
+	{
+		"name": "joker",
+		"background": "#0f1f2c",
+		"error": "#e32b2b",
+		"accent": "#99de1e",
+		"subAccent": "#99de1e",
+		"text": "#e9e2f5",
+		"subText": "#7554a3"
+	},
+	{
+		"name": "nether portal",
+		"background": "#101820",
+		"error": "#e32b2b",
+		"accent": "#eedaea",
+		"subAccent": "#eedaea",
+		"text": "#eedaea",
+		"subText": "#cf6bdd"
+	},
+	{
+		"name": "cyber",
+		"background": "#181c18",
+		"error": "#e32b2b",
+		"accent": "#00ce7c",
+		"subAccent": "#00ce7c",
+		"text": "#c2fbe1",
+		"subText": "#cf6bdd"
+	},
+	{
+		"name": "hipyo",
+		"background": "#2C3745",
+		"error": "#ffccff",
+		"accent": "#66ffff",
+		"subAccent": "#cc99ff",
+		"text": "#ffff9c",
+		"subText": "#ffffe6"
+	},
+	{
+		"name": "winter break",
+		"background": "#081426",
+		"error": "#ca4754",
+		"accent": "#ef6d49",
+		"subAccent": "#f17754",
+		"text": "#ffe4bc",
+		"subText": "#fff4bc"
+	},
+	{
+		"name": "midnight",
+		"background": "#0b0e13",
+		"error": "#c27070",
+		"accent": "#60759f",
+		"subAccent": "#60759f",
+		"text": "#9FADC3",
+		"subText": "#394760"
+	},
+	{
+		"name": "gmk white on black",
+		"background": "#0b0e13",
+		"error": "#ff4f00",
+		"accent": "#ffffff",
+		"subAccent": "#ffffff",
+		"text": "#ffffff",
+		"subText": "#ffffff"
+	},
+	{
+		"name": "comfy coding",
+		"background": "#0b0e13",
+		"error": "#ff4f00",
+		"accent": "#4fcdb9",
+		"subAccent": "#4fcdb9",
+		"text": "#ffffff",
+		"subText": "#213c53"
+	},
+	{
+		"name": "husky",
+		"background": "#0b0e13",
+		"error": "#ff4f00",
+		"accent": "#c58aff",
+		"subAccent": "#c58aff",
+		"text": "#ffffff",
+		"subText": "#ffffff"
+	},
+	{
+		"name": "terminal",
+		"background": "#0b0e13",
+		"error": "#ff4f00",
+		"accent": "#15ff00",
+		"subAccent": "#15ff00",
+		"text": "#d1ffcd",
+		"subText": "#003b00"
+	}
+]
