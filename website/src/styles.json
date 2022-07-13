@@ -90,15 +90,6 @@
 		"subText": "#5c4a9c"
 	},
 	{
-		"name": "sublime text",
-		"background": "#212121",
-		"error": "#ff3300",
-		"accent": "#feff04",
-		"subAccent": "#feff04",
-		"text": "#e8e8e8",
-		"subText": "#5c4a9c"
-	},
-	{
 		"name": "gateron blues",
 		"background": "#191826",
 		"error": "#be555f",
@@ -106,33 +97,6 @@
 		"subAccent": "#4a6fb5",
 		"text": "#e8e8e8",
 		"subText": "#9393a7"
-	},
-	{
-		"name": "crypto",
-		"background": "#0f1f2c",
-		"error": "#56c3b7",
-		"accent": "#56c3b7",
-		"subAccent": "#e4edf1",
-		"text": "#e8e8e8",
-		"subText": "#d44729"
-	},
-	{
-		"name": "crypto",
-		"background": "#0f1f2c",
-		"error": "#56c3b7",
-		"accent": "#56c3b7",
-		"subAccent": "#e4edf1",
-		"text": "#e8e8e8",
-		"subText": "#d44729"
-	},
-	{
-		"name": "dark magician",
-		"background": "#0f1f2c",
-		"error": "#56c3b7",
-		"accent": "#56c3b7",
-		"subAccent": "#e4edf1",
-		"text": "#e8e8e8",
-		"subText": "#d44729"
 	},
 	{
 		"name": "cherry blossom",

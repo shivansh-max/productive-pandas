@@ -1,5 +1,5 @@
 // Creating a the theme interface
-export class Theme {
+class Theme {
 	name: string;
 	background: string;
 	error: string;
@@ -19,6 +19,12 @@ export class Theme {
 	}
 }
 
+const themeJson: tempTheme[] = require('./../styles.json');
+
+var themes: Theme[] = [];	
+
+themeJson.map(theme => themes.push(new Theme(theme)))
+
 interface tempTheme {
 	name: string;
 	background: string;
@@ -28,3 +34,5 @@ interface tempTheme {
 	text: string;
 	subText: string;
 }
+
+export { Theme, themes };

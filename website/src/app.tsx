@@ -5,6 +5,7 @@ import { ThemeProvider } from 'styled-components';
 import { Navbar } from './components/navbar';
 import { Router } from './public/router';
 import { Global } from './styles/global';
+import { Cmd } from './command line';
 
 const App: FC = () => {
 	// Accessing Theme
@@ -15,6 +16,7 @@ const App: FC = () => {
 			<Navbar />
 			<Global />
 			<Router />
+			<Cmd />
 		</ThemeProvider>
 	);
 };

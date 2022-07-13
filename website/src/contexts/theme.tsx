@@ -1,5 +1,6 @@
 // Imports
-import { useState, createContext, FC } from 'react';
+import { createContext, FC } from 'react';
+import { useLocalStorage } from '../hooks/useLocalStorage';
 import { Theme } from '../models/';
 
 // Creating a theme interface to define what you get
@@ -32,7 +33,10 @@ interface themeProps {
 
 // Creating the theme provider that will wrap the rest of the app
 const ThemeProvider: FC<themeProps> = ({ children }) => {
-	const [theme, setTheme] = useState<Theme>(sampleThemeContext);
+	const [theme, setTheme] = useLocalStorage<Theme>(
+		'theme',
+		sampleThemeContext
+	);
 
 	return (
 		<ThemeContext.Provider value={{ theme, setTheme }}>

@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "This is the api for the productive pandas website and is used to store an assortment of things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivansh-max/productive-pandas.git"
+  },
+  "keywords": [
+    "api",
+    "student"
+  ],
+  "author": "shiva_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivansh-max/productive-pandas/issues"
+  },
+  "homepage": "https://github.com/shivansh-max/productive-pandas#readme"
+}

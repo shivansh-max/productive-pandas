@@ -12,14 +12,14 @@ const Global = createGlobalStyle<globalProps>`
     }
 
     body {
-        background-color: ${({ theme }) => theme.background};
-        color: ${({ theme }) => theme.text};
         height: 100vh;
-        font-family: ${fonts.Comfortaa};
+       font-family: ${fonts.Comfortaa};
     }
 
     #root {
         height: 100%;
+        background-color: ${({ theme }) => theme.background};
+        color: ${({ theme }) => theme.text};
     }
 
     a {
